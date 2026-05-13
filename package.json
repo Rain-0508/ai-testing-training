@@ -1,0 +1,23 @@
+{
+  "name": "ai-testing-training",
+  "version": "1.0.0",
+  "description": "AI Testing training repository demonstrating MCP-based E2E testing with Playwright, Excel, REST, and File servers.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rain-0508/ai-testing-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rain-0508/ai-testing-training/issues"
+  },
+  "homepage": "https://github.com/Rain-0508/ai-testing-training#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.7.0"
+  }
+}
